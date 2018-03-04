@@ -1,0 +1,2 @@
+# QRCodeDemo
+Quét mã QR
